@@ -20,3 +20,4 @@ library(tidyverse)
 ggplot(mtcars, aes(x = factor(cyl), y = mpg, fill = factor(cyl))) +
   geom_col()
 ```
+
