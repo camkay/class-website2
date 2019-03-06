@@ -1,0 +1,5 @@
+---
+title: "Second class website"
+site: distill::distill_website
+listing: posts
+---
