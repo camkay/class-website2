@@ -15,6 +15,21 @@
     "last_modified": "2019-03-06T10:51:29-08:00"
   },
   {
+    "path": "posts/2019-03-06-my-third-post/",
+    "title": "my third post",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2019-03-06",
+    "categories": [],
+    "preview": "posts/2019-03-06-my-third-post/my-third-post_files/figure-html5/plot2-1.png",
+    "last_modified": "2019-03-06T11:00:59-08:00"
+  },
+  {
     "path": "posts/welcome/",
     "title": "Welcome to Second class website",
     "description": "Welcome to our new blog, Second class website. We hope you enjoy \nreading what we have to say!",
